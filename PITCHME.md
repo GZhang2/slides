@@ -1,6 +1,8 @@
-# Flux 
+# Phyloreference curation experiment 
 
-An application architecture for React
+* An experiment was done to curate 20+ phyloreferences based on Brochu (2003)
+* Time needed for tree transcription, phyloreference entry, and validation was recorded
+* Software as well as conceptual issues were documented
 
 ---
 
