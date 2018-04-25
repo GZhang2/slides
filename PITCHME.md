@@ -13,6 +13,7 @@
 * Overall validation - 
 
 ---
+### Some conceptual issues (not directly bearing on curation)
 
 Internal node is absent
 ![Gavialoidea not matched](assets/Gavialoidea.png)
