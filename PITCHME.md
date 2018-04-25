@@ -12,4 +12,4 @@
 
 ---
 
-![Gavialoidea not matched](https://github.com/GZhang2/slides/blob/master/assets/Gavialoidea.png)
+![Gavialoidea not matched](assets/Gavialoidea.png)
