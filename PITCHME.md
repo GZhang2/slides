@@ -30,3 +30,7 @@ Internal node is absent
 ---
 Node of a stem-based definition?
 ![Alligatoroidea not matched](assets/Alligatoroidea.png)
+
+---
+Mapping in curation tool
+![Stem-base ddefinition mapping](assets/AlligatoroideaNode.png)
