@@ -5,6 +5,7 @@
 * Software and conceptual issues documented
 
 ---
+![Brochu2003](assets/Brochu2003.png)
 
 ### Time breakdown
 * Newick tree transcription - 40 min
