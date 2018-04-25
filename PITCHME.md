@@ -10,7 +10,7 @@
 
 - Box to enter comments on definition (from paper/original author)
 ![Comments on definitions in paper](/assets/comments.png) 
-![curation](/assets/curationpanel)
+![curation panel](/assets/curationpanel.png)
 ---
 Internal node is absent
 ![Gavialoidea not matched](assets/Gavialoidea.png)
