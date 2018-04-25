@@ -28,5 +28,5 @@ Internal node is absent
 ![Gavialoidea not matched](assets/Gavialoidea.png)
 
 ---
-What is the node a stem-based definition?
+Node of a stem-based definition?
 ![Alligatoroidea not matched](assets/Alligatoroidea.png)
