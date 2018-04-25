@@ -10,6 +10,14 @@
 
 ---
 
+![Brochu2003 Table](assets/BrochuTable.png)
+
+---
+
+![Brochu2003 Figure 1](assets/BrochuFigure1.png)
+
+---
+
 ### Time breakdown
 * Newick tree transcription - 40 min
 * Enter study details - 5 min
