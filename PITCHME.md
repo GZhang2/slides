@@ -29,8 +29,9 @@ Internal node is absent
 
 ---
 Node of a stem-based definition?
+* Alligatoroidea labeled along branch, not at a node
 ![Alligatoroidea not matched](assets/Alligatoroidea.png)
 
 ---
 Mapping in curation tool
-![Stem-base ddefinition mapping](assets/AlligatoroideaNode.png)
+![Stem-base definition mapping](assets/AlligatoroideaNode.png)
