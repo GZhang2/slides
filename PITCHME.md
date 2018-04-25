@@ -1,16 +1,14 @@
 ## Phyloreference curation experiment 
 
-* An experiment was done to curate 20+ phyloreferences based on Brochu (2003)
+* Experiment was done to curate 20+ phyloreferences based on Brochu (2003)
 * Time needed for tree transcription, phyloreference entry, and validation was recorded
 * Software and conceptual issues were documented
 
 ---
 
-### Flux Design
+### New curation tool features needed
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Box to enter comments on definition (from paper/original author)
 
 ---
 
