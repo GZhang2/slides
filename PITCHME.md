@@ -1,8 +1,15 @@
 ## Phyloreference curation experiment 
 
-* Experiment was done to curate 20+ phyloreferences based on Brochu (2003)
-* Time needed for tree transcription, phyloreference entry, and validation was recorded
-* Software and conceptual issues were documented
+* Experiment to curate PCD (phylogenetic clade definitions) in Brochu (2003)
+* Time needed for tree transcription, phyloreference entry, and validation recorded
+* Software and conceptual issues documented
+
+---
+
+### Time breakdown
+* Newick tree transcription - 40 min
+* Enter study details - 5 min
+* Each phyloreference - 2 to 5 min
 
 ---
 
@@ -19,3 +26,7 @@ Current curation panel for a "phyloreference"
 
 Internal node is absent
 ![Gavialoidea not matched](assets/Gavialoidea.png)
+
+---
+What is the node a stem-based definition?
+![Alligatoroidea not matched](assets/Alligatoroidea.png)
