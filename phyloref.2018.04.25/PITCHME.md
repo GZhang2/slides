@@ -1,29 +1,15 @@
-### C# <span style="color: #e49436">Expression Trees</span> in the <span style="color: #e49436">Real World</span>
+# Flux 
 
-#####  Spencer Schneidenbach
-
-[@schneidenbach](https://twitter.com/schneidenbach)  
+An application architecture for React
 
 ---
 
-Twitter [@schneidenbach](https://twitter.com/schneidenbach)  
+### Flux Design
 
-## Slides plus more at
-
-ss.zone/expressions
-
----
-
-## <span class="orange">Have you ever been asked to:</span>
-* Query a database with a LINQ expression?
-
-```csharp
-from product in db.Products
-where product.Price < 2.55
-select new {
-    product.Name,
-    product.Price
-}
-```
+- Dispatcher: Manages Data Flow
+- Stores: Handle State & Logic
+- Views: Render Data via React
 
 ---
+
+![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
