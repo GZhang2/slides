@@ -29,7 +29,7 @@ Internal node is absent
 
 ---
 Node of a stem-based definition?
-* Alligatoroidea labeled along branch, not at a node
+* Alligatoroidea labeled along branch, not at a node as this is a stem-based definition: "Alligator mississippiensis and all crocodylians closer to it than to Crocodylus niloticus or Gavialis gangeticus."
 ![Alligatoroidea not matched](assets/Alligatoroidea.png)
 
 ---
