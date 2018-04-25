@@ -8,7 +8,7 @@
 
 ### New curation tool features needed
 
-1 Box to enter comments on definition (from paper/original author)
+1. Box to enter comments on definition (from paper/original author)
 ![Comments on definitions in paper](/assets/comments.png) 
 
 ---
