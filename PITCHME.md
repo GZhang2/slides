@@ -16,5 +16,6 @@ Current curation panel for a "phyloreference"
 ![curation panel](/assets/curationpanel.png)
 
 ---
+
 Internal node is absent
 ![Gavialoidea not matched](assets/Gavialoidea.png)
