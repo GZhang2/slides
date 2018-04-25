@@ -9,7 +9,7 @@
 ### New curation tool features needed
 
 - Box to enter comments on definition (from paper/original author)
-
+![Comments on definitions in paper](/assets/comments.png)
 ---
-
+Internal node is absent
 ![Gavialoidea not matched](assets/Gavialoidea.png)
